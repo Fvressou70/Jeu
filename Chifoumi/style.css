@@ -1,0 +1,30 @@
+.bix{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+.bex{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5.2%;
+}
+h1{
+    text-align: center;
+    
+}
+.box{
+    border-radius: 10px;
+
+}
+body{ background: linear-gradient(
+     180deg, rgb(255, 255, 255) 5%,
+     rgb(5, 5, 5) 90%);
+        color: rgb(0, 0, 0);
+        font-family: Helvetica;
+        display: block;
+        margin: 15px;
+        
+        
+    }
